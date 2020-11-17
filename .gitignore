@@ -1,0 +1,17 @@
+#idea should be ignored
+.idea
+
+# Compiled files
+*.o
+*.so
+*.rlib
+*.dll
+
+# binaries
+target/
+
+# Cargo.lock file
+Cargo.lock
+
+# backups
+**/*.rs.bk
